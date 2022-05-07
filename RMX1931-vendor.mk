@@ -1998,7 +1998,7 @@ PRODUCT_PACKAGES += \
     dpmserviceapp \
     ims \
     qcrilmsgtunnel \
-    QtiTelephonyServicelibrary
+    QtiTelephonyServicelibrary \
     WfdCommon \
     qcrilhook \
     qti-telephony-common \
