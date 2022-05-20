@@ -2,7 +2,7 @@
   "config":
   {
     "hw_platform": ["MTP"],
-    "soc_id": ["339","19696"]
+    "soc_id": ["339"]
   },
   "alsps":{
     "owner": "sns_alsps",

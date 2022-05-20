@@ -2,7 +2,7 @@
   "config":
   {
     "hw_platform": ["QRD", "MTP", "Dragon", "Surf", "HDK"],
-    "soc_id": ["336", "339", "341", "347", "360","19081","18115","19781","19688"]
+    "soc_id": ["339"]
   },
   "lsm6ds3c_0":{
     "owner": "lsm6ds3c",
